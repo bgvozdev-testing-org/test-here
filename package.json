@@ -7,11 +7,11 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "lodash": "4.17.20",           // Prototype Pollution (CVE-2020-8203)
-    "express": "4.16.0",           // Multiple vulnerabilities (CVE-2018-11655)
-    "jquery": "3.4.0",             // XSS vulnerabilities (CVE-2019-11358)
-    "handlebars": "4.0.11",        // Prototype Pollution (CVE-2019-19919)
-    "minimist": "0.0.8",           // Prototype Pollution (CVE-2020-7598)
-    "serialize-javascript": "2.1.1"// XSS vulnerability (CVE-2019-16769)
+    "lodash": "4.17.20",
+    "express": "4.16.0",
+    "jquery": "3.4.0",
+    "handlebars": "4.0.11",
+    "minimist": "0.0.8",
+    "serialize-javascript": "2.1.1"
   }
 }

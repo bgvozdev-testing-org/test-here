@@ -1,7 +1,7 @@
 {
-  "name": "vulnerable-test-app",
+  "name": "online banking",
   "version": "1.0.0",
-  "description": "A test app with intentionally vulnerable dependencies",
+  "description": "Access to an online bank for enterprise employees",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
